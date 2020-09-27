@@ -34,7 +34,7 @@
 }
 
 @media screen and (max-width: 414px;) {
-    .container {
+    .container-fluid row {
       width: 300px;
     }
   }
