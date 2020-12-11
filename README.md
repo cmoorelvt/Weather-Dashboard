@@ -3,7 +3,7 @@ Server-Side APIs: Weather Dashboard
 
 Live Link: https://cmoorelvt.github.io/Weather-Dashboard/
 
-Developers are often tasked with retrieving data from another application's API and using it in the context of their own. Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. Your challenge is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
+This assignment was to build a weather dashboard that runs in the browser. By calling and retreiving data from OpenWeather's one-call API, I was able to build a dynamic dashboard that updates automatically as new searches are entered by the user.
 
 Use the [OpenWeather API](https://openweathermap.org/api) to retrieve weather data for cities. Use `localStorage` to store any persistent data.
 ## User Story
